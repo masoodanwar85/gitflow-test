@@ -1,0 +1,2 @@
+This is feature-2 branch's file.
+This is a file that contains bug.
